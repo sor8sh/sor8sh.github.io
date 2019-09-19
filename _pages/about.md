@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at the Cheriton School of Computer Science at the University of Waterloo. [[Curriculum Vitae](https:sorooosh.github.io/files/cv.pdf)]
+I am a Master's student at the Cheriton School of Computer Science at the University of Waterloo. [[Curriculum Vitae](https:sor8sh.github.io/files/cv.pdf)]
 
 My research interests lie in the area of Machine Learning, particularly in Deep Learning, and its applications in other areas, such as Bioinformatics. In addition, I am interested in Computer Vision, Natural Language Processing, and Artificial Intelligence.
 
