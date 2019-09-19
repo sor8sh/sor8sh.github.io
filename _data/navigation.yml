@@ -7,7 +7,7 @@ main:
     url: /academic/
 
   - title: "Projects"
-    url: /_projects/
+    url: /projects/
 
   - title: "Honors"
     url: /honors/
