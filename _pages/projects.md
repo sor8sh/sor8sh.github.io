@@ -9,15 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<ul>
-    {% for post in site.projects %}
-        {% include archive-single-cv.html %}
-    {% endfor %}
-</ul>
-
 * B.Sc. Final Project (Spring 2019)
     * Advisor: Dr. Sauleh Etemadi
-    * [Image Captioning using Attention Mechanism trained on MSCOCO dataset.](https://sor8sh.github.io/files/BSc-Final-Project.md) (TensorFlow)
+    * Image Captioning using Attention Mechanism trained on MSCOCO dataset. (TensorFlow)
 * Foundation of Computer Vision (Fall 2018)
     * Course final project: Room Segmentation (OpenCV)
     * Noise Reduction, Line Detection, Morphology, Image Classification, Template Matching Face Detection with Kalman Filter, Corner Detection, CamScanner (OpenCV)
