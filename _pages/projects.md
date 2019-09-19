@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<ul>
+    {% for post in site.projects %}
+        {% include archive-single-cv.html %}
+    {% endfor %}
+</ul>
+
 * B.Sc. Final Project (Spring 2019)
     * Advisor: Dr. Sauleh Etemadi
     * [Image Captioning using Attention Mechanism trained on MSCOCO dataset.](https://sor8sh.github.io/projects/BSc-Final-Project.md) (TensorFlow)
