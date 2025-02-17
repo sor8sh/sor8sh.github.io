@@ -5,20 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Education"
-    url: /education/
-
-  - title: "Academic"
-    url: /academic/
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Honors"
-    url: /honors/
-        
-  - title: "Blog Posts"
-    url: /blog/
+#  - title: "Education"
+#    url: /education/
+#
+#  - title: "Academic"
+#    url: /academic/
+#
+#  - title: "Projects"
+#    url: /projects/
+#
+#  - title: "Honors"
+#    url: /honors/
+#
+#  - title: "Blog Posts"
+#    url: /blog/
     
 #  - title: "About Me"
 #    url: /about-me/
